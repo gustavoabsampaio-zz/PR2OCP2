@@ -2,6 +2,6 @@ public class prog1
 {
 	public static void main(String[] args)
 	{
-		System.out.print("Foo Bar");
+		System.out.print("Gustavo");
 	}
 }
